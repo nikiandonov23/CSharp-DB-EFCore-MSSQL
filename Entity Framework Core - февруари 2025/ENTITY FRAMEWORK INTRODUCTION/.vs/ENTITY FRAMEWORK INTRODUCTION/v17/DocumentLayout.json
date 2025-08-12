@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3208E5F7-105A-4345-9562-549B81DDF2D4}|EFCoreCodeFirst\\EFCoreCodeFirst.csproj|c:\\users\\nikia\\source\\repos\\entity framework introduction\\efcorecodefirst\\migrations\\20250317112354_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208E5F7-105A-4345-9562-549B81DDF2D4}|EFCoreCodeFirst\\EFCoreCodeFirst.csproj|solutionrelative:efcorecodefirst\\migrations\\20250317112354_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208E5F7-105A-4345-9562-549B81DDF2D4}|EFCoreCodeFirst\\EFCoreCodeFirst.csproj|c:\\users\\nikia\\source\\repos\\entity framework introduction\\efcorecodefirst\\data\\myblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208E5F7-105A-4345-9562-549B81DDF2D4}|EFCoreCodeFirst\\EFCoreCodeFirst.csproj|solutionrelative:efcorecodefirst\\data\\myblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B4D521-F495-44E1-ADCF-1899BF71B58B}|ENTITY FRAMEWORK INTRODUCTION\\ENTITY FRAMEWORK INTRODUCTION.csproj|c:\\users\\nikia\\source\\repos\\entity framework introduction\\entity framework introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B4D521-F495-44E1-ADCF-1899BF71B58B}|ENTITY FRAMEWORK INTRODUCTION\\ENTITY FRAMEWORK INTRODUCTION.csproj|solutionrelative:entity framework introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250317112354_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\EFCoreCodeFirst\\Migrations\\20250317112354_InitialMigration.cs",
+              "RelativeDocumentMoniker": "EFCoreCodeFirst\\Migrations\\20250317112354_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\EFCoreCodeFirst\\Migrations\\20250317112354_InitialMigration.cs",
+              "RelativeToolTip": "EFCoreCodeFirst\\Migrations\\20250317112354_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:23:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\EFCoreCodeFirst\\Data\\MyBlogDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreCodeFirst\\Data\\MyBlogDbContext.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\EFCoreCodeFirst\\Data\\MyBlogDbContext.cs",
+              "RelativeToolTip": "EFCoreCodeFirst\\Data\\MyBlogDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:53:31.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\ENTITY FRAMEWORK INTRODUCTION\\Program.cs",
+              "RelativeDocumentMoniker": "ENTITY FRAMEWORK INTRODUCTION\\Program.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\ENTITY FRAMEWORK INTRODUCTION\\ENTITY FRAMEWORK INTRODUCTION\\Program.cs",
+              "RelativeToolTip": "ENTITY FRAMEWORK INTRODUCTION\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:07:20.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

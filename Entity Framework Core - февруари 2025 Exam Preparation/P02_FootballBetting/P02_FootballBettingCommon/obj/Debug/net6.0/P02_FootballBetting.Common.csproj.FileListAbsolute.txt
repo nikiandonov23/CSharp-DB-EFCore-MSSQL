@@ -1,0 +1,15 @@
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBetting.Common.deps.json
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBetting.Common.runtimeconfig.json
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBetting.Common.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBetting.Common.pdb
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.AssemblyInfo.cs
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.sourcelink.json
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\refint\P02_FootballBetting.Common.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.pdb
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBetting.Common.genruntimeconfig.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\ref\P02_FootballBetting.Common.dll

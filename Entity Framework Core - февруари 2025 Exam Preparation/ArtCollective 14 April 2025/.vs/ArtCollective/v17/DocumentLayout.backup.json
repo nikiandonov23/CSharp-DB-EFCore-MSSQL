@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421DBFEB-E037-4927-9C2C-3808FE64AF9D}|ArtCollective\\ArtCollective.csproj|c:\\users\\nikia\\desktop\\db problems\\artcollective 14 april 2025\\artcollective\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421DBFEB-E037-4927-9C2C-3808FE64AF9D}|ArtCollective\\ArtCollective.csproj|solutionrelative:artcollective\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421DBFEB-E037-4927-9C2C-3808FE64AF9D}|ArtCollective\\ArtCollective.csproj|c:\\users\\nikia\\desktop\\db problems\\artcollective 14 april 2025\\artcollective\\dataprocessor\\exportdtos\\exportgroupfeedbacksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421DBFEB-E037-4927-9C2C-3808FE64AF9D}|ArtCollective\\ArtCollective.csproj|solutionrelative:artcollective\\dataprocessor\\exportdtos\\exportgroupfeedbacksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421DBFEB-E037-4927-9C2C-3808FE64AF9D}|ArtCollective\\ArtCollective.csproj|c:\\users\\nikia\\desktop\\db problems\\artcollective 14 april 2025\\artcollective\\dataprocessor\\exportdtos\\exportfeedbacksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421DBFEB-E037-4927-9C2C-3808FE64AF9D}|ArtCollective\\ArtCollective.csproj|solutionrelative:artcollective\\dataprocessor\\exportdtos\\exportfeedbacksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportGroupFeedbacksDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\ArtCollective\\DataProcessor\\ExportDTOs\\ExportGroupFeedbacksDto.cs",
+              "RelativeDocumentMoniker": "ArtCollective\\DataProcessor\\ExportDTOs\\ExportGroupFeedbacksDto.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\ArtCollective\\DataProcessor\\ExportDTOs\\ExportGroupFeedbacksDto.cs",
+              "RelativeToolTip": "ArtCollective\\DataProcessor\\ExportDTOs\\ExportGroupFeedbacksDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:30:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportFeedbacksDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\ArtCollective\\DataProcessor\\ExportDTOs\\ExportFeedbacksDto.cs",
+              "RelativeDocumentMoniker": "ArtCollective\\DataProcessor\\ExportDTOs\\ExportFeedbacksDto.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\ArtCollective\\DataProcessor\\ExportDTOs\\ExportFeedbacksDto.cs",
+              "RelativeToolTip": "ArtCollective\\DataProcessor\\ExportDTOs\\ExportFeedbacksDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:30:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\ArtCollective\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "ArtCollective\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\ArtCollective 14 April 2025\\ArtCollective\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "ArtCollective\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:59:55.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

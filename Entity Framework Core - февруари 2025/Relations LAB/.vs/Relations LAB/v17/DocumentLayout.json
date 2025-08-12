@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|c:\\users\\nikia\\source\\repos\\relations lab\\relations lab\\data\\models\\studentscourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|solutionrelative:relations lab\\data\\models\\studentscourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|c:\\users\\nikia\\source\\repos\\relations lab\\relations lab\\data\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|solutionrelative:relations lab\\data\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|c:\\users\\nikia\\source\\repos\\relations lab\\relations lab\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|solutionrelative:relations lab\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|c:\\users\\nikia\\source\\repos\\relations lab\\relations lab\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|solutionrelative:relations lab\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|c:\\users\\nikia\\source\\repos\\relations lab\\relations lab\\data\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0101D96-C283-4916-B72F-C372FAA145EF}|Relations LAB\\Relations LAB.csproj|solutionrelative:relations lab\\data\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Relations LAB\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Configuration.cs",
+              "RelativeToolTip": "Relations LAB\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:59:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\UniversityDbContext.cs",
+              "RelativeDocumentMoniker": "Relations LAB\\Data\\UniversityDbContext.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\UniversityDbContext.cs",
+              "RelativeToolTip": "Relations LAB\\Data\\UniversityDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:55:20.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsCourses.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Models\\StudentsCourses.cs",
+              "RelativeDocumentMoniker": "Relations LAB\\Data\\Models\\StudentsCourses.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Models\\StudentsCourses.cs",
+              "RelativeToolTip": "Relations LAB\\Data\\Models\\StudentsCourses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:14:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Relations LAB\\Data\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Models\\Room.cs",
+              "RelativeToolTip": "Relations LAB\\Data\\Models\\Room.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:50:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Relations LAB\\Data\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\Relations LAB\\Relations LAB\\Data\\Models\\Address.cs",
+              "RelativeToolTip": "Relations LAB\\Data\\Models\\Address.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:17:41.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

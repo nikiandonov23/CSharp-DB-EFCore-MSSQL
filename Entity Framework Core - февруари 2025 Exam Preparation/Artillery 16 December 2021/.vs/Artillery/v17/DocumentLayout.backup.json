@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\nikia\\desktop\\db problems\\artillery 16 december 2021\\artillery\\importresults\\expected result - importshells.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\importresults\\expected result - importshells.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\nikia\\desktop\\db problems\\artillery 16 december 2021\\artillery\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\nikia\\desktop\\db problems\\artillery 16 december 2021\\artillery\\dataprocessor\\importdto\\importcountriesjsondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\importdto\\importcountriesjsondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\nikia\\desktop\\db problems\\artillery 16 december 2021\\artillery\\data\\models\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expected Result - ImportShells.txt",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\ImportResults\\Expected Result - ImportShells.txt",
+              "RelativeDocumentMoniker": "Artillery\\ImportResults\\Expected Result - ImportShells.txt",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\ImportResults\\Expected Result - ImportShells.txt",
+              "RelativeToolTip": "Artillery\\ImportResults\\Expected Result - ImportShells.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-12T17:20:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportCountriesJsonDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\DataProcessor\\ImportDto\\ImportCountriesJsonDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ImportDto\\ImportCountriesJsonDto.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\DataProcessor\\ImportDto\\ImportCountriesJsonDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ImportDto\\ImportCountriesJsonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:46:10.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\Data\\Models\\Gun.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\Gun.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\Data\\Models\\Gun.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\Gun.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:42:37.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Artillery 16 December 2021\\Artillery\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:55:39.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

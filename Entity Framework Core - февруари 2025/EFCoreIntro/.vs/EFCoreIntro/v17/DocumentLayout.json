@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2F07BB-70B7-4AE5-9527-AA57AE3A4068}|EFCoreCodeFirst\\EFCoreCodeFirst.csproj|c:\\users\\nikia\\source\\repos\\efcoreintro\\efcorecodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2F07BB-70B7-4AE5-9527-AA57AE3A4068}|EFCoreCodeFirst\\EFCoreCodeFirst.csproj|solutionrelative:efcorecodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6624E6-834A-424E-AF7C-D77617B52A90}|EFCoreIntro\\EFCoreIntro.csproj|c:\\users\\nikia\\source\\repos\\efcoreintro\\efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6624E6-834A-424E-AF7C-D77617B52A90}|EFCoreIntro\\EFCoreIntro.csproj|solutionrelative:efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6624E6-834A-424E-AF7C-D77617B52A90}|EFCoreIntro\\EFCoreIntro.csproj|c:\\users\\nikia\\source\\repos\\efcoreintro\\efcoreintro\\models\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6624E6-834A-424E-AF7C-D77617B52A90}|EFCoreIntro\\EFCoreIntro.csproj|solutionrelative:efcoreintro\\models\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\EFCoreCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\EFCoreCodeFirst\\Program.cs",
+              "RelativeToolTip": "EFCoreCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:27:59.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\EFCoreIntro\\Models\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "EFCoreIntro\\Models\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\EFCoreIntro\\Models\\SoftUniContext.cs",
+              "RelativeToolTip": "EFCoreIntro\\Models\\SoftUniContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:05:05.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\EFCoreIntro\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\EFCoreIntro\\EFCoreIntro\\Program.cs",
+              "RelativeToolTip": "EFCoreIntro\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:39:24.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

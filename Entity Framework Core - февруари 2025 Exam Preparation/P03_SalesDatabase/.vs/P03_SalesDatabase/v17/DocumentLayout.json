@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\P03_SalesDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikia\\AppData\\Local\\Temp\\tuujgdux.2fs.mmd||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A755AD-CC7F-4C8F-BB2A-7DF2B3326F2C}|P03_SalesDatabase\\P03_SalesDatabase.csproj|c:\\users\\nikia\\source\\repos\\p03_salesdatabase\\p03_salesdatabase\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A755AD-CC7F-4C8F-BB2A-7DF2B3326F2C}|P03_SalesDatabase\\P03_SalesDatabase.csproj|solutionrelative:p03_salesdatabase\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tuujgdux.2fs.mmd",
+              "DocumentMoniker": "C:\\Users\\nikia\\AppData\\Local\\Temp\\tuujgdux.2fs.mmd",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\tuujgdux.2fs.mmd",
+              "ToolTip": "C:\\Users\\nikia\\AppData\\Local\\Temp\\tuujgdux.2fs.mmd",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\tuujgdux.2fs.mmd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T12:27:49.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\P03_SalesDatabase\\P03_SalesDatabase\\Data\\SalesContext.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabase\\Data\\SalesContext.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\P03_SalesDatabase\\P03_SalesDatabase\\Data\\SalesContext.cs",
+              "RelativeToolTip": "P03_SalesDatabase\\Data\\SalesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:32:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

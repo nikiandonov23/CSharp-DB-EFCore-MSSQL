@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\nikia\\desktop\\db problems\\medicines-skeleton\\medicines\\dataprocessor\\exportdtos\\exportpatientmedicinesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportpatientmedicinesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\nikia\\desktop\\db problems\\medicines-skeleton\\medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\nikia\\desktop\\db problems\\medicines-skeleton\\medicines\\dataprocessor\\exportdtos\\exportmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:34:17.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:21:52.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExportPatientMedicinesDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\Medicines\\DataProcessor\\ExportDtos\\ExportPatientMedicinesDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientMedicinesDto.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Medicines-Skeleton\\Medicines\\DataProcessor\\ExportDtos\\ExportPatientMedicinesDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientMedicinesDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:21:29.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

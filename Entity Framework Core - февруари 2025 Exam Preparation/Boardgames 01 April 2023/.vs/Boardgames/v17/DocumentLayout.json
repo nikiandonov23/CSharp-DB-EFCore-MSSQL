@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\nikia\\desktop\\db problems\\boardgames 01 april 2023\\boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\nikia\\desktop\\db problems\\boardgames 01 april 2023\\boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\nikia\\desktop\\db problems\\boardgames 01 april 2023\\boardgames\\dataprocessor\\exportdto\\exportboardgamesxmldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\exportboardgamesxmldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\Boardgames\\StartUp.cs",
+              "RelativeDocumentMoniker": "Boardgames\\StartUp.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\Boardgames\\StartUp.cs",
+              "RelativeToolTip": "Boardgames\\StartUp.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:51:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportBoardGamesXMLDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\Boardgames\\DataProcessor\\ExportDto\\ExportBoardGamesXMLDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\ExportBoardGamesXMLDto.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\Boardgames\\DataProcessor\\ExportDto\\ExportBoardGamesXMLDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\ExportBoardGamesXMLDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:37:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\DB PROBLEMS\\Boardgames 01 April 2023\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:38:30.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

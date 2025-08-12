@@ -1,0 +1,43 @@
+Successfully imported feedback (Given on: 2025-03-01, Status: Published)
+Successfully imported feedback (Given on: 2025-03-02, Status: Pending)
+Invalid data format.
+Successfully imported feedback (Given on: 2025-03-03, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-04, Status: Published)
+Successfully imported feedback (Given on: 2025-03-05, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-06, Status: Published)
+Successfully imported feedback (Given on: 2025-03-07, Status: Published)
+Successfully imported feedback (Given on: 2025-03-08, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-09, Status: Published)
+Invalid data format.
+Successfully imported feedback (Given on: 2025-03-10, Status: Pending)
+Successfully imported feedback (Given on: 2025-03-11, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-12, Status: Published)
+Successfully imported feedback (Given on: 2025-03-13, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-14, Status: Published)
+Successfully imported feedback (Given on: 2025-03-15, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-16, Status: Pending)
+Successfully imported feedback (Given on: 2025-03-17, Status: Reviewed)
+Invalid data format.
+Successfully imported feedback (Given on: 2025-03-18, Status: Published)
+Successfully imported feedback (Given on: 2025-03-19, Status: Reviewed)
+Invalid data format.
+Successfully imported feedback (Given on: 2025-03-20, Status: Pending)
+Invalid data format.
+Invalid data format.
+Successfully imported feedback (Given on: 2025-04-12, Status: Pending)
+Successfully imported feedback (Given on: 2025-03-21, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-22, Status: Published)
+Successfully imported feedback (Given on: 2025-03-23, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-24, Status: Published)
+Successfully imported feedback (Given on: 2025-03-25, Status: Published)
+Successfully imported feedback (Given on: 2025-03-26, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-27, Status: Pending)
+Successfully imported feedback (Given on: 2025-03-28, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-29, Status: Published)
+Successfully imported feedback (Given on: 2025-03-30, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-03-31, Status: Reviewed)
+Successfully imported feedback (Given on: 2025-04-01, Status: Published)
+Successfully imported feedback (Given on: 2025-04-02, Status: Reviewed)
+Data is duplicated.
+Successfully imported feedback (Given on: 2025-04-03, Status: Pending)
+Invalid data format.

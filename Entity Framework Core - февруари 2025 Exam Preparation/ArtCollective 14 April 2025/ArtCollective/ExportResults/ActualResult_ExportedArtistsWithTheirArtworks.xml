@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Artists>
+  <Artist Collaborations="2">
+    <Username>alessandro_rossi</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Florence at Dawn</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Architectural Echoes</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Urban Renaissance</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Golden Streets</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Perspective Shift</Title>
+        <CreatedOn>2025-03-05</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>The Silent Dome</Title>
+        <CreatedOn>2025-03-06</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="2">
+    <Username>antoine_leblanc</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Fragments of Color</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Hidden Frame</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Pastel Revolt</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="3">
+    <Username>camille_durand</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Layered Silence</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Transparent Future</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="3">
+    <Username>chiara_ferrari</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Muted Carnival</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Gravity Lines</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Windswept</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="2">
+    <Username>élise_martin</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Veil of Light</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Soft Geometry</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Eclipsed</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Fractured Whisper</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Dream Contour</Title>
+        <CreatedOn>2025-03-05</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="3">
+    <Username>giulia_bianchi</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Digital Bloom</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Code Canvas</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Fragmented Memory</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Electric Stillness</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="2">
+    <Username>luca_verdi</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Bronze Horizon</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>The Empty Field</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>After the Rain</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Stone and Sky</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Industrial Bloom</Title>
+        <CreatedOn>2025-03-05</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Silent Composition</Title>
+        <CreatedOn>2025-03-10</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="3">
+    <Username>marie_dupont</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Parisian Mist</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Reflections in Seine</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Window Shadows</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Montmartre Evening</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Lines of Time</Title>
+        <CreatedOn>2025-03-05</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>The Silent Studio</Title>
+        <CreatedOn>2025-03-06</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Fleeting Light</Title>
+        <CreatedOn>2025-03-07</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="2">
+    <Username>nicolas_moreau</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Mechanical Bloom</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Rust and Lace</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Time Sketch</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>The Quiet Machine</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+  <Artist Collaborations="2">
+    <Username>sofia_russo</Username>
+    <Artworks>
+      <Artwork>
+        <Title>Urban Wild</Title>
+        <CreatedOn>2025-03-01</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Neon Echo</Title>
+        <CreatedOn>2025-03-02</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Synthetic Mirage</Title>
+        <CreatedOn>2025-03-03</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Painted Pulse</Title>
+        <CreatedOn>2025-03-04</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Static Sea</Title>
+        <CreatedOn>2025-03-05</CreatedOn>
+      </Artwork>
+      <Artwork>
+        <Title>Breath of Blue</Title>
+        <CreatedOn>2025-03-06</CreatedOn>
+      </Artwork>
+    </Artworks>
+  </Artist>
+</Artists>

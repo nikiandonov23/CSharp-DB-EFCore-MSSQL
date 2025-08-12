@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\SoftUni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|d:\\repos\\softuni\\softuni\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A2C4B-0E70-43E6-8065-E3F855B235BC}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Data\\SoftUniContext.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUni\\Data\\SoftUniContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwJ8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:27:39.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\EmployeeProject.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "SoftUni\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:09:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Town.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Models\\Town.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Town.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Models\\Town.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Town.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:13:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Project.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Project.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:13:13.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Employee.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Models\\Employee.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Employee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA2wBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:13:02.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Department.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Models\\Department.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:12:50.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Address.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\Models\\Address.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:12:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\SoftUni\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUni\\StartUp.cs",
+              "ToolTip": "D:\\repos\\SoftUni\\SoftUni\\StartUp.cs",
+              "RelativeToolTip": "SoftUni\\StartUp.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAwwMABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:59:37.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

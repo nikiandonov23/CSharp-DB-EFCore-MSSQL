@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\nikia\\desktop\\.net entity framework\\orm framework exercise\\miniorm\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\nikia\\desktop\\.net entity framework\\orm framework exercise\\miniorm\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\nikia\\desktop\\.net entity framework\\orm framework exercise\\miniorm\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\nikia\\desktop\\.net entity framework\\orm framework exercise\\miniorm\\changetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\changetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\nikia\\desktop\\.net entity framework\\orm framework exercise\\miniorm\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 616,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbSet.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\DbSet.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DbSet.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\DbSet.cs*",
+              "RelativeToolTip": "MiniORM\\DbSet.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:37:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\DatabaseConnection.cs",
+              "RelativeToolTip": "MiniORM\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:34:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeTracker.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\ChangeTracker.cs",
+              "RelativeDocumentMoniker": "MiniORM\\ChangeTracker.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\ChangeTracker.cs",
+              "RelativeToolTip": "MiniORM\\ChangeTracker.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:44:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorMessages.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\ErrorMessages.cs",
+              "RelativeDocumentMoniker": "MiniORM\\ErrorMessages.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\ErrorMessages.cs*",
+              "RelativeToolTip": "MiniORM\\ErrorMessages.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:01:38.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\DbContext.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DbContext.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\.Net ENTITY FRAMEWORK\\ORM FRAMEWORK EXERCISE\\MiniORM\\DbContext.cs",
+              "RelativeToolTip": "MiniORM\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:07:32.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

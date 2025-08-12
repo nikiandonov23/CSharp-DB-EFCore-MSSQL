@@ -1,0 +1,268 @@
+[
+    {
+        "Id": 1,
+        "Title": "Impressionisti Moderni",
+        "StartedOn": "2024-01-15",
+        "Feedbacks": [
+            {
+                "Content": "The group's creative direction is truly refreshing.",
+                "GivenOn": "2025-03-01",
+                "Status": 2,
+                "ArtistUsername": "alessandro_rossi"
+            },
+            {
+                "Content": "Excited to work with such a talented team!",
+                "GivenOn": "2025-03-02",
+                "Status": 0,
+                "ArtistUsername": "marie_dupont"
+            },
+            {
+                "Content": "Impressive vision for modern art evolution.",
+                "GivenOn": "2025-03-03",
+                "Status": 1,
+                "ArtistUsername": "antoine_leblanc"
+            },
+            {
+                "Content": "The collaboration feels seamless and inspiring.",
+                "GivenOn": "2025-03-04",
+                "Status": 2,
+                "ArtistUsername": "nicolas_moreau"
+            },
+            {
+                "Content": "This group embraces innovation — love it!",
+                "GivenOn": "2025-03-05",
+                "Status": 1,
+                "ArtistUsername": "chiara_ferrari"
+            },
+            {
+                "Content": "I believe we're setting a new standard in the art scene.",
+                "GivenOn": "2025-03-06",
+                "Status": 2,
+                "ArtistUsername": "élise_martin"
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Title": "Art Contemporain",
+        "StartedOn": "2024-02-10",
+        "Feedbacks": [
+            {
+                "Content": "The group's aesthetic truly pushes boundaries.",
+                "GivenOn": "2025-03-07",
+                "Status": 2,
+                "ArtistUsername": "alessandro_rossi"
+            },
+            {
+                "Content": "Love the diversity of styles represented here.",
+                "GivenOn": "2025-03-08",
+                "Status": 1,
+                "ArtistUsername": "marie_dupont"
+            },
+            {
+                "Content": "I feel very inspired by the team's dedication.",
+                "GivenOn": "2025-03-09",
+                "Status": 2,
+                "ArtistUsername": "giulia_bianchi"
+            },
+            {
+                "Content": "Looking forward to seeing how we evolve this month.",
+                "GivenOn": "2025-03-10",
+                "Status": 0,
+                "ArtistUsername": "antoine_leblanc"
+            },
+            {
+                "Content": "This project blends modernism and tradition beautifully.",
+                "GivenOn": "2025-03-11",
+                "Status": 1,
+                "ArtistUsername": "luca_verdi"
+            },
+            {
+                "Content": "Our group dynamic makes bold creativity possible.",
+                "GivenOn": "2025-03-12",
+                "Status": 2,
+                "ArtistUsername": "camille_durand"
+            },
+            {
+                "Content": "We have a strong concept that deserves global attention.",
+                "GivenOn": "2025-03-13",
+                "Status": 1,
+                "ArtistUsername": "sofia_russo"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Title": "Rinascimento Digitale",
+        "StartedOn": "2024-03-05",
+        "Feedbacks": [
+            {
+                "Content": "This group values critique and deep discussion — amazing!",
+                "GivenOn": "2025-03-14",
+                "Status": 2,
+                "ArtistUsername": "marie_dupont"
+            },
+            {
+                "Content": "The visual storytelling we're developing is powerful.",
+                "GivenOn": "2025-03-15",
+                "Status": 1,
+                "ArtistUsername": "antoine_leblanc"
+            },
+            {
+                "Content": "Each session brings a new layer of artistic growth.",
+                "GivenOn": "2025-03-16",
+                "Status": 0,
+                "ArtistUsername": "camille_durand"
+            },
+            {
+                "Content": "I'm proud to be part of this collective evolution.",
+                "GivenOn": "2025-03-17",
+                "Status": 1,
+                "ArtistUsername": "marie_dupont"
+            },
+            {
+                "Content": "This feedback contains more than two hundred characters. It keeps going and going just to make sure it goes past the allowed maximum. We're now past 150 and closing in... done!",
+                "GivenOn": "2025-04-12",
+                "Status": 0,
+                "ArtistUsername": "luca_verdi"
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Title": "Les Couleurs Libres",
+        "StartedOn": "2024-04-20",
+        "Feedbacks": [
+            {
+                "Content": "The group's use of texture and tone is breathtaking.",
+                "GivenOn": "2025-03-18",
+                "Status": 2,
+                "ArtistUsername": "giulia_bianchi"
+            },
+            {
+                "Content": "We're blending abstract and realism in compelling ways.",
+                "GivenOn": "2025-03-19",
+                "Status": 1,
+                "ArtistUsername": "nicolas_moreau"
+            },
+            {
+                "Content": "Love the fresh perspective everyone brings to the table.",
+                "GivenOn": "2025-03-20",
+                "Status": 0,
+                "ArtistUsername": "chiara_ferrari"
+            },
+            {
+                "Content": "This group is pushing me to new artistic heights.",
+                "GivenOn": "2025-03-21",
+                "Status": 1,
+                "ArtistUsername": "giulia_bianchi"
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Title": "Visioni Urbane",
+        "StartedOn": "2024-05-01",
+        "Feedbacks": [
+            {
+                "Content": "This group's urban aesthetic is raw and deeply expressive.",
+                "GivenOn": "2025-03-22",
+                "Status": 2,
+                "ArtistUsername": "nicolas_moreau"
+            },
+            {
+                "Content": "I appreciate how we explore the relationship between space and emotion.",
+                "GivenOn": "2025-03-23",
+                "Status": 1,
+                "ArtistUsername": "antoine_leblanc"
+            },
+            {
+                "Content": "The energy in our discussions has been electric and inspiring.",
+                "GivenOn": "2025-03-24",
+                "Status": 2,
+                "ArtistUsername": "nicolas_moreau"
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "Title": "Expression Visuelle",
+        "StartedOn": "2024-05-18",
+        "Feedbacks": [
+            {
+                "Content": "The group's exploration of visual rhythm is fascinating.",
+                "GivenOn": "2025-03-25",
+                "Status": 2,
+                "ArtistUsername": "luca_verdi"
+            },
+            {
+                "Content": "We’re finding a unique harmony between movement and color.",
+                "GivenOn": "2025-03-26",
+                "Status": 1,
+                "ArtistUsername": "camille_durand"
+            },
+            {
+                "Content": "The freedom to experiment here has pushed my boundaries.",
+                "GivenOn": "2025-03-27",
+                "Status": 0,
+                "ArtistUsername": "sofia_russo"
+            },
+            {
+                "Content": "This group represents the future of expressionism.",
+                "GivenOn": "2025-03-28",
+                "Status": 1,
+                "ArtistUsername": "camille_durand"
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "Title": "Arte e Natura",
+        "StartedOn": "2024-06-10",
+        "Feedbacks": [
+            {
+                "Content": "The group's connection to nature is beautifully reflected in our work.",
+                "GivenOn": "2025-03-29",
+                "Status": 2,
+                "ArtistUsername": "camille_durand"
+            },
+            {
+                "Content": "Exploring organic forms has opened new creative pathways for me.",
+                "GivenOn": "2025-03-30",
+                "Status": 1,
+                "ArtistUsername": "élise_martin"
+            },
+            {
+                "Content": "I’m constantly inspired by our dialogue with natural elements.",
+                "GivenOn": "2025-03-31",
+                "Status": 1,
+                "ArtistUsername": "camille_durand"
+            }
+        ]
+    },
+    {
+        "Id": 8,
+        "Title": "Surréalisme Moderne",
+        "StartedOn": "2024-06-30",
+        "Feedbacks": [
+            {
+                "Content": "The surreal concepts explored here are absolutely captivating.",
+                "GivenOn": "2025-04-01",
+                "Status": 2,
+                "ArtistUsername": "sofia_russo"
+            },
+            {
+                "Content": "I’m constantly challenged by the abstract nature of our themes.",
+                "GivenOn": "2025-04-02",
+                "Status": 1,
+                "ArtistUsername": "marie_dupont"
+            },
+            {
+                "Content": "The collaborative spirit in this group is unmatched.",
+                "GivenOn": "2025-04-03",
+                "Status": 0,
+                "ArtistUsername": "sofia_russo"
+            }
+        ]
+    }
+]

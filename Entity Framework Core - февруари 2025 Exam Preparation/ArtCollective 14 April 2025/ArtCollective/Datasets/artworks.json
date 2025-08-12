@@ -1,0 +1,314 @@
+[
+    {
+        "Title": "Florence at Dawn",
+        "Description": "Soft hues reflecting the quiet stillness of Florence as the sun rises.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 1
+    },
+    {
+        "Title": "Architectural Echoes",
+        "Description": "A study in symmetry, inspired by Renaissance columns and arches.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 1
+    },
+    {
+        "Title": "Urban Renaissance",
+        "Description": "Modern city lines blended with classical composition.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 1
+    },
+    {
+        "Title": "Golden Streets",
+        "Description": "An interpretation of golden hour in ancient alleyways.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 1
+    },
+    {
+        "Title": "Perspective Shift",
+        "Description": "An exploration of inverted space and mirrored light.",
+        "CreatedOn": "2025-03-05",
+        "ArtistId": 1
+    },
+    {
+        "Title": "The Silent Dome",
+        "Description": "Muted tones illustrating the vast silence inside a cathedral dome.",
+        "CreatedOn": "2025-03-06",
+        "ArtistId": 1
+    },
+    {
+        "Title": "",
+        "Description": "Missing title completely.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 1
+    },
+    {
+        "Title": "Florence at Dawn",
+        "Description": "Duplicate of an artwork already imported for ArtistId 1.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 1
+    },
+    {
+        "Title": "Parisian Mist",
+        "Description": "A calm study in grays and muted blues capturing a foggy morning in Paris.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Reflections in Seine",
+        "Description": "Layered reflections and distortion capturing movement on water.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Window Shadows",
+        "Description": "Light cutting through a windowpane, casting fractured shadows.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Montmartre Evening",
+        "Description": "Warm colors and playful strokes illustrate a cozy Parisian café scene.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Lines of Time",
+        "Description": "Minimalist geometry representing the passing of time through architecture.",
+        "CreatedOn": "2025-03-05",
+        "ArtistId": 2
+    },
+    {
+        "Title": "The Silent Studio",
+        "Description": "A glimpse into an empty atelier, filled with textures of solitude.",
+        "CreatedOn": "2025-03-06",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Fleeting Light",
+        "Description": "Capturing the last golden rays of sunset as they disappear into blue.",
+        "CreatedOn": "2025-03-07",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Too Short Desc",
+        "Description": "Short",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 2
+    },
+    {
+        "Title": "Digital Bloom",
+        "Description": "A fusion of organic shapes and digital brushwork symbolizing tech and nature.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 3
+    },
+    {
+        "Title": "Code Canvas",
+        "Description": "An abstract interpretation of source code flowing like paint strokes.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 3
+    },
+    {
+        "Title": "Fragmented Memory",
+        "Description": "Pixel-inspired forms that explore themes of nostalgia and data loss.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 3
+    },
+    {
+        "Title": "Electric Stillness",
+        "Description": "Glitch effects frozen in time — modern silence in a noisy world.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 3
+    },
+    {
+        "Title": "Wrong Date Format",
+        "Description": "Valid description, but invalid date.",
+        "CreatedOn": "03-03-2025",
+        "ArtistId": 3
+    },
+    {
+        "Title": "Fragments of Color",
+        "Description": "Expressive bursts of color resembling emotional release.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 4
+    },
+    {
+        "Title": "Hidden Frame",
+        "Description": "A canvas-within-canvas exploration of perspective and reality.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 4
+    },
+    {
+        "Title": "Pastel Revolt",
+        "Description": "Soft tones arranged in chaotic motion — beauty in disorder.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 4
+    },
+    {
+        "Title": "Missing Date",
+        "Description": "The artwork has no created date.",
+        "CreatedOn": "",
+        "ArtistId": 4
+    },
+    {
+        "Title": "Bronze Horizon",
+        "Description": "Burnt oranges and copper create an atmospheric illusion of dusk.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 5
+    },
+    {
+        "Title": "The Empty Field",
+        "Description": "A minimalist painting depicting space, silence, and solitude.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 5
+    },
+    {
+        "Title": "After the Rain",
+        "Description": "Wet reflections and light distortions captured in vibrant brushwork.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 5
+    },
+    {
+        "Title": "Stone and Sky",
+        "Description": "Contrast between earthy textures and smooth gradients.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 5
+    },
+    {
+        "Title": "Industrial Bloom",
+        "Description": "Nature resurging through modern infrastructure.",
+        "CreatedOn": "2025-03-05",
+        "ArtistId": 5
+    },
+    {
+        "Title": "Silent Composition",
+        "Description": null,
+        "CreatedOn": "2025-03-10",
+        "ArtistId": 5
+    },
+    {
+        "Title": "Layered Silence",
+        "Description": "Greyscale overlays representing internal emotional stasis.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 6
+    },
+    {
+        "Title": "Transparent Future",
+        "Description": "Faint brushwork and negative space suggest unseen possibilities.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 6
+    },
+    {
+        "Title": "Urban Wild",
+        "Description": "Jungle textures layered over urban shapes.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 7
+    },
+    {
+        "Title": "Neon Echo",
+        "Description": "Bright outlines echo across a dark surface, symbolizing memory.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 7
+    },
+    {
+        "Title": "Synthetic Mirage",
+        "Description": "A colorful illusion of depth created with geometric gradients.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 7
+    },
+    {
+        "Title": "Painted Pulse",
+        "Description": "Brush strokes mimic the rhythm of a heartbeat.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 7
+    },
+    {
+        "Title": "Static Sea",
+        "Description": "A modern abstraction of water under electric light.",
+        "CreatedOn": "2025-03-05",
+        "ArtistId": 7
+    },
+    {
+        "Title": "Breath of Blue",
+        "Description": "Shades of blue breathing from dark to light.",
+        "CreatedOn": "2025-03-06",
+        "ArtistId": 7
+    },
+    {
+        "Title": "Mechanical Bloom",
+        "Description": "A floral burst assembled from machine parts.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 8
+    },
+    {
+        "Title": "Rust and Lace",
+        "Description": "Delicate patterns on decaying industrial textures.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 8
+    },
+    {
+        "Title": "Time Sketch",
+        "Description": "Faded drawings of timepieces, hinting at memory loss.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 8
+    },
+    {
+        "Title": "The Quiet Machine",
+        "Description": "Muted colors and stillness in an imagined robot's world.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 8
+    },
+    {
+        "Title": "Muted Carnival",
+        "Description": "A celebration seen through a frosted window.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 9
+    },
+    {
+        "Title": "Gravity Lines",
+        "Description": "Abstract interpretation of gravitational fields.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 9
+    },
+    {
+        "Title": "Windswept",
+        "Description": "Swirling colors suggesting invisible wind currents.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 9
+    },
+    {
+        "Title": "Veil of Light",
+        "Description": "Glowing patterns suggest a curtain of light over darkness.",
+        "CreatedOn": "2025-03-01",
+        "ArtistId": 10
+    },
+    {
+        "Title": "Soft Geometry",
+        "Description": "Rounded shapes arranged in balanced harmony.",
+        "CreatedOn": "2025-03-02",
+        "ArtistId": 10
+    },
+    {
+        "Title": "Eclipsed",
+        "Description": "Contrast between bright crescents and blackness.",
+        "CreatedOn": "2025-03-03",
+        "ArtistId": 10
+    },
+    {
+        "Title": "Fractured Whisper",
+        "Description": "A whisper turned visible through cracked, translucent lines.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 10
+    },
+    {
+        "Title": "Dream Contour",
+        "Description": "Blurry outlines of dreamlike architecture.",
+        "CreatedOn": "2025-03-05",
+        "ArtistId": 10
+    },
+    {
+        "Title": "Ghost Artist",
+        "Description": "This artist ID doesn't exist.",
+        "CreatedOn": "2025-03-04",
+        "ArtistId": 999
+    }
+]

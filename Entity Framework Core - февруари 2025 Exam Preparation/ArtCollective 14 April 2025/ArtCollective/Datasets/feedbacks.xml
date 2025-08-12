@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Feedbacks>
+	
+	<Feedback GivenOn="2025-03-01">
+		<Content>The group's creative direction is truly refreshing.</Content>
+		<Status>Published</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>1</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-02">
+		<Content>Excited to work with such a talented team!</Content>
+		<Status>Pending</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+
+	<!-- Invalid Content (empty) -->
+	<Feedback GivenOn="2025-04-04">
+		<Content></Content>
+		<Status>Published</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>3</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-03">
+		<Content>Impressive vision for modern art evolution.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>4</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-04">
+		<Content>The collaboration feels seamless and inspiring.</Content>
+		<Status>Published</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>8</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-05">
+		<Content>This group embraces innovation — love it!</Content>
+		<Status>Reviewed</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>9</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-06">
+		<Content>I believe we're setting a new standard in the art scene.</Content>
+		<Status>Published</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>10</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-07">
+		<Content>The group's aesthetic truly pushes boundaries.</Content>
+		<Status>Published</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>1</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-08">
+		<Content>Love the diversity of styles represented here.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-09">
+		<Content>I feel very inspired by the team's dedication.</Content>
+		<Status>Published</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>3</ArtistId>
+	</Feedback>
+
+	<!-- Invalid Date Format -->
+	<Feedback GivenOn="04-05-2025">
+		<Content>Misaligned with the theme.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>4</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-10">
+		<Content>Looking forward to seeing how we evolve this month.</Content>
+		<Status>Pending</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>4</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-11">
+		<Content>This project blends modernism and tradition beautifully.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>5</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-12">
+		<Content>Our group dynamic makes bold creativity possible.</Content>
+		<Status>Published</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-13">
+		<Content>We have a strong concept that deserves global attention.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>7</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-14">
+		<Content>This group values critique and deep discussion — amazing!</Content>
+		<Status>Published</Status>
+		<GroupId>3</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-15">
+		<Content>The visual storytelling we're developing is powerful.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>3</GroupId>
+		<ArtistId>4</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-16">
+		<Content>Each session brings a new layer of artistic growth.</Content>
+		<Status>Pending</Status>
+		<GroupId>3</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-17">
+		<Content>I'm proud to be part of this collective evolution.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>3</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+
+	<!-- Invalid Enum Value -->
+	<Feedback GivenOn="2025-04-06">
+		<Content>The direction is confusing to me.</Content>
+		<Status>Done</Status>
+		<GroupId>3</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-18">
+		<Content>The group's use of texture and tone is breathtaking.</Content>
+		<Status>Published</Status>
+		<GroupId>4</GroupId>
+		<ArtistId>3</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-19">
+		<Content>We're blending abstract and realism in compelling ways.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>4</GroupId>
+		<ArtistId>8</ArtistId>
+	</Feedback>
+
+	<!-- Non-existent ArtistId -->
+	<Feedback GivenOn="2025-04-08">
+		<Content>This artist ID is invalid.</Content>
+		<Status>Published</Status>
+		<GroupId>4</GroupId>
+		<ArtistId>999</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-20">
+		<Content>Love the fresh perspective everyone brings to the table.</Content>
+		<Status>Pending</Status>
+		<GroupId>4</GroupId>
+		<ArtistId>9</ArtistId>
+	</Feedback>
+
+	<!-- Too short (2 characters) -->
+	<Feedback GivenOn="2025-04-10">
+		<Content>Hi</Content>
+		<Status>Published</Status>
+		<GroupId>1</GroupId>
+		<ArtistId>3</ArtistId>
+	</Feedback>
+
+	<!-- Empty content -->
+	<Feedback GivenOn="2025-04-11">
+		<Content></Content>
+		<Status>Reviewed</Status>
+		<GroupId>2</GroupId>
+		<ArtistId>4</ArtistId>
+	</Feedback>
+
+	<!-- Too long (201 characters) -->
+	<Feedback GivenOn="2025-04-12">
+		<Content>This feedback contains more than two hundred characters. It keeps going and going just to make sure it goes past the allowed maximum. We're now past 150 and closing in... done!</Content>
+		<Status>Pending</Status>
+		<GroupId>3</GroupId>
+		<ArtistId>5</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-21">
+		<Content>This group is pushing me to new artistic heights.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>4</GroupId>
+		<ArtistId>3</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-22">
+		<Content>This group's urban aesthetic is raw and deeply expressive.</Content>
+		<Status>Published</Status>
+		<GroupId>5</GroupId>
+		<ArtistId>8</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-23">
+		<Content>I appreciate how we explore the relationship between space and emotion.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>5</GroupId>
+		<ArtistId>4</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-24">
+		<Content>The energy in our discussions has been electric and inspiring.</Content>
+		<Status>Published</Status>
+		<GroupId>5</GroupId>
+		<ArtistId>8</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-25">
+		<Content>The group's exploration of visual rhythm is fascinating.</Content>
+		<Status>Published</Status>
+		<GroupId>6</GroupId>
+		<ArtistId>5</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-26">
+		<Content>We’re finding a unique harmony between movement and color.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>6</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-27">
+		<Content>The freedom to experiment here has pushed my boundaries.</Content>
+		<Status>Pending</Status>
+		<GroupId>6</GroupId>
+		<ArtistId>7</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-28">
+		<Content>This group represents the future of expressionism.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>6</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-29">
+		<Content>The group's connection to nature is beautifully reflected in our work.</Content>
+		<Status>Published</Status>
+		<GroupId>7</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-30">
+		<Content>Exploring organic forms has opened new creative pathways for me.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>7</GroupId>
+		<ArtistId>10</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-03-31">
+		<Content>I’m constantly inspired by our dialogue with natural elements.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>7</GroupId>
+		<ArtistId>6</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-04-01">
+		<Content>The surreal concepts explored here are absolutely captivating.</Content>
+		<Status>Published</Status>
+		<GroupId>8</GroupId>
+		<ArtistId>7</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-04-02">
+		<Content>I’m constantly challenged by the abstract nature of our themes.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>8</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+
+	<!-- Feedback duplication -->
+	<Feedback GivenOn="2025-04-02">
+		<Content>I’m constantly challenged by the abstract nature of our themes.</Content>
+		<Status>Reviewed</Status>
+		<GroupId>8</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+
+	<Feedback GivenOn="2025-04-03">
+		<Content>The collaborative spirit in this group is unmatched.</Content>
+		<Status>Pending</Status>
+		<GroupId>8</GroupId>
+		<ArtistId>7</ArtistId>
+	</Feedback>	
+
+	<!-- Non-existent GroupId -->
+	<Feedback GivenOn="2025-04-07">
+		<Content>This feedback refers to a group that doesn’t exist.</Content>
+		<Status>Pending</Status>
+		<GroupId>99</GroupId>
+		<ArtistId>2</ArtistId>
+	</Feedback>
+	
+</Feedbacks>

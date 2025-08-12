@@ -1,0 +1,15 @@
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBettingCommon.deps.json
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBettingCommon.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBettingCommon.pdb
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.AssemblyInfo.cs
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.sourcelink.json
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\refint\P02_FootballBettingCommon.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.pdb
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\ref\P02_FootballBettingCommon.dll
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\bin\Debug\net6.0\P02_FootballBettingCommon.runtimeconfig.json
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\P02_FootballBetting\P02_FootballBettingCommon\obj\Debug\net6.0\P02_FootballBettingCommon.genruntimeconfig.cache
